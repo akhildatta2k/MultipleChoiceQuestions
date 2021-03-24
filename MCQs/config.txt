@@ -1,5 +1,8 @@
 create a database as mcq's
 import mcq_s.sql file into your database
 create your Own MCQs and enjoy
+Copy MCQs folder to htdocs in Xammp and run by using localhost/MCQs/login.php
 use Username:admin
 Password:admin
+add questions in into database
+add users into database
